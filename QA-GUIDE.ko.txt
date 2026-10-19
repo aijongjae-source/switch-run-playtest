@@ -1,4 +1,4 @@
-SWITCH RUN! — Windows 친구 테스트
+SWITCH RUN! 0.62.46-qa1 — Windows 멀티플레이 다운로드
 
 시작하기
 EXE 설치본을 실행하고 바탕화면의 SWITCH RUN! QA를 실행하세요.
