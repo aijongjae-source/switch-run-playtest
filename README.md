@@ -6,6 +6,7 @@
 - [크리에이터 설치](https://github.com/aijongjae-source/switch-run-playtest/releases/latest/download/SwitchRun-Creator-Windows.exe)
 - [배포 페이지와 SHA256](https://github.com/aijongjae-source/switch-run-playtest/releases/latest)
 - [설치·접속·조작 안내](QA-GUIDE.ko.txt)
+- [504 다운로드 오류가 뜰 때](https://github.com/aijongjae-source/switch-run-playtest/releases/tag/v0.62.312-qa1#504-다운로드-오류)
 
 게임을 종료한 뒤 새 설치 파일을 실행하면 기존 위치에 업데이트합니다. 닉네임·설정·바로가기 실행 옵션은 유지됩니다. 같은 버전을 다시 설치하면 복구 설치가 되며 일반판과 크리에이터판은 각각 업데이트합니다. 함께 플레이할 때는 모두 같은 **0.62.312** 게임 버전을 사용하세요.
 
