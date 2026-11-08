@@ -2,9 +2,9 @@
 
 최신 다운로드는 **0.62.312-qa1**입니다. Windows 10/11 64비트에서 설치할 수 있습니다.
 
-- [일반 게임 설치](https://github.com/aijongjae-source/switch-run-playtest/releases/latest/download/SwitchRun-Windows.exe)
-- [크리에이터 설치](https://github.com/aijongjae-source/switch-run-playtest/releases/latest/download/SwitchRun-Creator-Windows.exe)
-- [배포 페이지와 SHA256](https://github.com/aijongjae-source/switch-run-playtest/releases/latest)
+- [일반 게임 설치](https://github.com/aijongjae-source/switch-run-playtest/releases/download/v0.62.312-qa1/SwitchRun-Windows.exe)
+- [크리에이터 설치](https://github.com/aijongjae-source/switch-run-playtest/releases/download/v0.62.312-qa1/SwitchRun-Creator-Windows.exe)
+- [배포 페이지와 SHA256](https://github.com/aijongjae-source/switch-run-playtest/releases/tag/v0.62.312-qa1)
 - [설치·접속·조작 안내](QA-GUIDE.ko.txt)
 - [504 다운로드 오류가 뜰 때](https://github.com/aijongjae-source/switch-run-playtest/releases/tag/v0.62.312-qa1#504-다운로드-오류)
 
